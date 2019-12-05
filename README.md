@@ -1,1 +1,1 @@
-# MiniProject3RRHL
+#Homework: Setup, Docker, Flask, SQLAlchmy 
